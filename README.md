@@ -1,0 +1,2 @@
+# exercicios
+Desafios de exercícios.
